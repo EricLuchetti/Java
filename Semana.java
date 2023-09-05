@@ -6,25 +6,25 @@ public class Semana {
 
         switch (dia) {
             case 1:
-                JOptionPane.showMessageDialog(null, "Segunda-feira");
+                JOptionPane.showMessageDialog(null, "Domingo");
                 break;
             case 2:
-                JOptionPane.showMessageDialog(null, "Terça-feira");
+                JOptionPane.showMessageDialog(null, "Segunda-feira");
                 break;
             case 3:
-                JOptionPane.showMessageDialog(null, "Quarta-feira");
+                JOptionPane.showMessageDialog(null, "Terça-feira");
                 break;
             case 4:
-                JOptionPane.showMessageDialog(null, "Quinta-feira");
+                JOptionPane.showMessageDialog(null, "Quarta-feira");
                 break;
             case 5:
-                JOptionPane.showMessageDialog(null, "Sexta-feira");
+                JOptionPane.showMessageDialog(null, "Quinta-feira");
                 break;
             case 6:
-                JOptionPane.showMessageDialog(null, "Sábado");
+                JOptionPane.showMessageDialog(null, "Sexta-feira");
                 break;
             case 7:
-                JOptionPane.showMessageDialog(null, "Segunda");
+                JOptionPane.showMessageDialog(null, "Sábado");
                 break;
             default:
                 JOptionPane.showMessageDialog(null, "Não foi possível identificar o dia da semana");
