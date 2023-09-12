@@ -3,9 +3,6 @@
 menos 6, o programa deve exibir a quantidade de alunos que tiveram nota maior do que 8. Caso contrário, o programa
 deve exibir a quantidade de alunos que tiraram nota 0. */
 
-import java.util.LinkedList;
-import java.util.Stack;
-
 import javax.swing.JOptionPane;
 
 public class Exercicio14 {
